@@ -1,0 +1,3 @@
+[submodule "dictionaries"]
+	path = dictionaries
+	url = git@github.com:slavonic/hunspell-cu.git
